@@ -1,0 +1,42 @@
+# Environment / Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# FAISS index files (generated at runtime)
+faiss_index.index
+faiss_index.metadata
+
+# Uploaded project files (generated at runtime)
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ZIP test files
+# ZIP test files
+*.zip
+
+# Node
+node_modules/

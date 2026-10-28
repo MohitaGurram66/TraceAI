@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+chromadb
+sentence-transformers
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+python-multipart
